@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f95d4d25-e44f-471f-90a9-bbe6c7632270" name="Changes" comment="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main0.java" afterDir="false" />
+    <list default="true" id="f95d4d25-e44f-471f-90a9-bbe6c7632270" name="Changes" comment="add README.md file.">
+      <change afterPath="$PROJECT_DIR$/License" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719695297064</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="learn &amp; applied:&#10;CRUD Operations Using Statement,&#10;Prepared Statement,&#10;CRUD Operations Using Prepared Statement,&#10;Batch Processing in JDBC,&#10;Transaction Handling in JDBC,&#10;Closing all Instances.">
+      <created>1719696821536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719696821536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add README.md file.">
+      <created>1719697218235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719697218235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,9 +119,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn &amp; applied:&#10;CRUD Operations Using Statement,&#10;Prepared Statement,&#10;CRUD Operations Using Prepared Statement,&#10;Batch Processing in JDBC,&#10;Transaction Handling in JDBC,&#10;Closing all Instances." />
     <MESSAGE value="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances" />
+    <MESSAGE value="learn &amp; applied:&#10;CRUD Operations Using Statement,&#10;Prepared Statement,&#10;CRUD Operations Using Prepared Statement,&#10;Batch Processing in JDBC,&#10;Transaction Handling in JDBC,&#10;Closing all Instances." />
+    <MESSAGE value="add README.md file." />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md file." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f95d4d25-e44f-471f-90a9-bbe6c7632270" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main0.java" afterDir="false" />
+    <list default="true" id="f95d4d25-e44f-471f-90a9-bbe6c7632270" name="Changes" comment="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +47,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main0">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JDBC Learning" />
@@ -73,8 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main0" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main0" />
       </list>
     </recent_temporary>
   </component>
@@ -87,6 +78,21 @@
       <option name="presentableId" value="Default" />
       <updated>1719501763847</updated>
     </task>
+    <task id="LOCAL-00001" summary="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances">
+      <created>1719695171401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719695171401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances">
+      <created>1719695297064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719695297064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +105,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn &amp; applied:&#10;CRUD Operations Using Statement,&#10;Prepared Statement,&#10;CRUD Operations Using Prepared Statement,&#10;Batch Processing in JDBC,&#10;Transaction Handling in JDBC,&#10;Closing all Instances." />
+    <MESSAGE value="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn &amp; applied:&#10;CRUD Operations Using Statement&#10;Prepared Statement&#10;CRUD Operations Using Prepared Statement&#10;Batch Processing in JDBC&#10;Transaction Handling in JDBC&#10;Project for Homework&#10;Closing all Instances" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
